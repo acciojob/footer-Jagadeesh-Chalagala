@@ -1,1 +1,40 @@
-/* your code here */
+
+*{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+footer{
+    
+}
+.footer-top{
+    background-color: #000;
+    padding:0px 30px 0 30px ;
+}
+
+.company{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.company button{
+    width:40px;
+    height:40px;
+    border: none;
+    border-radius: 50%;
+}
+
+.lsoc{
+    display: flex;
+    justify-content: space-between;
+}
+.lsoc li{
+    list-style: none;
+    padding:5px;
+}
+
+.cr{
+	background-color:gray;
+}
+
+
